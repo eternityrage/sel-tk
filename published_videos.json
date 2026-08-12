@@ -222,5 +222,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-b738fbd2-ac72-49a7-8fa2-17ec0946df4b.mp4",
+        "metadata": {
+            "title": "From Waverly Wizards to Pop Icon Glam: Selena Gomez\u2019s Throwback Glow-Up Moments \ud83d\udcab\u2728 | SelTok Lens",
+            "description": "Take a stroll down memory lane with us as we celebrate Selena Gomez\u2019s iconic journey\u2014from the magical world of Wizards of Waverly Place to the red-carpet royalty and chart-topping stardom she owns today. In this throwback video, we\u2019re reliving the moments that made us fall in love with her talent and style: unforgettable interviews, music video energy, fashion that always hits, and behind-the-scenes glimpses that remind us why she\u2019s truly a pop culture icon. Whether you grew up watching her on Disney or you discovered her brilliance later through Only Murders in the Building, this is your reminder that her story is still unfolding\u2014and it\u2019s already legendary. Like if you love Selena Gomez! Comment your favorite Selena Gomez movie or moment! Share this with another Selena Gomez fan! And follow SelTok Lens for the best Selena Gomez content! #selenagomez #hollywood #wizards #onlymurders #fashion #celebrity #redcarpet #selenagomezfan #actress #singer #icon #glamour #rarebeauty #disney",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": false,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
