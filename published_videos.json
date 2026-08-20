@@ -574,5 +574,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-99b1214b-4242-402a-934a-479e96ab2014.mp4",
+        "metadata": {
+            "title": "From wizards to world stages \u2728 Selena Gomez\u2019s most throwback-icon moments you need to relive!",
+            "description": "Can we just take a nostalgic trip back to the days when Selena Gomez lit up our screens as Alex Russo on Wizards of Waverly Place\u2014and then watched that same magic transform into red-carpet glamour, chart-topping music, and unforgettable on-screen presence? This short video is a love letter to her journey from teen TV star to full-on pop culture icon, packed with standout Selena moments: those iconic looks, candid interview vibes, music-video energy, and the kind of style that makes you want to pause and screenshot. Whether you\u2019re here for the Disney-era charm, the evolution into mature Hollywood sophistication, or the star power that still feels unmistakably Selena, this is pure celebration. Like if you love Selena Gomez! Comment your favorite Selena Gomez movie or moment! Share this with another Selena Gomez fan! And follow SelTok Lens for the best Selena Gomez content\u2014because we\u2019re keeping the throwback glow alive. #selenagomez #hollywood #wizards #onlymurders #fashion #celebrity #redcarpet #selenagomezfan #actress #singer #icon #glamour #rarebeauty #disney",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
