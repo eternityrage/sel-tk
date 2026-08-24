@@ -782,5 +782,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-17a8e189-22a3-4ce9-946f-1b3b68bdfa92.mp4",
+        "metadata": {
+            "title": "Selena Gomez Spark: From Red Carpet Glam to Big Dreams (Her Moments That Keep Us Going)",
+            "description": "Selena Gomez isn\u2019t just a star\u2014she\u2019s a whole reminder that resilience can be gorgeous. In this SelTok Lens short, we\u2019re celebrating the moments that make her feel like sunshine in human form: jaw-dropping red carpet looks, captivating interview energy, iconic music video vibes, and the behind-the-scenes glimpses that show how much heart she puts into everything she does. From her fearless performances to her acting that melts hearts, Selena\u2019s journey inspires her fans to keep believing, keep healing, and keep chasing their own dreams\u2014no matter what hurdles show up. Like if you love Selena Gomez! Comment your favorite Selena Gomez movie or moment! Share this with another Selena Gomez fan who needs a boost today. And don\u2019t forget to follow SelTok Lens for the best Selena Gomez content\u2014because we\u2019re always ready to scream (respectfully) over her style and talent. #selenagomez #hollywood #wizards #onlymurders #fashion #celebrity #redcarpet #selenagomezfan #actress #singer #icon #glamour #rarebeauty #disney",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
