@@ -1022,5 +1022,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-30b61874-dfa1-4b0f-a521-ef0ec9dc1811.mp4",
+        "metadata": {
+            "title": "Selena Gomez Sparkle Sprint \u2728\u2014Red Carpet Glam, Iconic Performances & the Moments That Made Her a Legend",
+            "description": "Turn up the hype, SelTok Lens crew\u2014today we\u2019re celebrating the absolute magic of Selena Gomez: those jaw-dropping red carpet looks, the confidence in every interview, and the way she lights up every scene like it\u2019s meant for her. From unforgettable music video energy to behind-the-scenes glimpses that feel like a backstage pass, Selena proves time and time again that she\u2019s not just talented\u2014she\u2019s iconic. Whether you\u2019re obsessed with her film moments, currently streaming her shows, or replaying her most glamorous fashion fades, this is your reminder that Selena\u2019s style is always a whole event. Like if you love Selena Gomez! Comment your favorite Selena Gomez movie or moment! Share this with another Selena Gomez fan! Follow SelTok Lens for the best Selena Gomez content! #selenagomez #hollywood #wizards #onlymurders #fashion #celebrity #redcarpet #selenagomezfan #actress #singer #icon #glamour #rarebeauty #disney",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
