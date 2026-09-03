@@ -1246,5 +1246,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-30b61874-dfa1-4b0f-a521-ef0ec9dc1811.mp4",
+        "metadata": {
+            "title": "Selena Gomez: The Red Carpet, The Laughs, & The Main-Character Energy (You\u2019re Not Ready!)",
+            "description": "Okay SelTok Lens fam, if you love Selena Gomez the way I do, this one is basically a serotonin injection\u2014because it\u2019s all her best moments in one glorious scroll: red carpet looks that practically cause plot twists, iconic interviews where she\u2019s funny enough to steal the scene, and music/video vibes that remind us she\u2019s not just talented\u2026 she\u2019s the whole soundtrack. From glam fashion details that deserve their own museum exhibit to behind-the-scenes moments that make you feel like you\u2019re hanging out with the coolest pop culture icon in the room, Selena somehow serves style and personality at the same time\u2014like, how is that even legal? And let\u2019s not forget the comedic timing\u2014her interview moments are the reason my cheeks hurt from smiling. Like if you love Selena Gomez! Comment your favorite Selena Gomez movie or moment! Share this with another Selena Gomez fan! Follow SelTok Lens for the best Selena Gomez content! #selenagomez #hollywood #wizards #onlymurders #fashion #celebrity #redcarpet #selenagomezfan #actress #singer #icon #glamour #rarebeauty #disney",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
