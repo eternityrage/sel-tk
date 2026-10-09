@@ -2942,5 +2942,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-30b61874-dfa1-4b0f-a521-ef0ec9dc1811.mp4",
+        "metadata": {
+            "title": "Selena Gomez Red Carpet Magic \u2728 Every Glam Moment That Proves She\u2019s Pure Pop Royalty",
+            "description": "Okay, SelTok Lens fam\u2014today we\u2019re serving full-on Selena Gomez glamour, from jaw-dropping red carpet looks to those camera-ready interview moments where her style always hits like couture perfection. In this short video, you\u2019ll get that signature Selena energy: sleek silhouettes, stunning color choices, effortless elegance, and the kind of fashion confidence that makes every entrance feel like a headline. Whether she\u2019s stepping into Hollywood spotlight mode or giving us behind-the-scenes vibes that feel like pure access, Selena always manages to look iconic without even trying too hard (even though we *know* it\u2019s effortless talent and style). If you\u2019re obsessed with her acting sparkle, her musical artistry, and that \u201chow is she always flawless?\u201d aura\u2014this is your sign to fall in love all over again. Like if you love Selena Gomez! Comment your favorite Selena Gomez movie or moment! Share this with another Selena Gomez fan! Follow SelTok Lens for the best Selena Gomez content! #selenagomez #hollywood #wizards #onlymurders #fashion #celebrity #redcarpet #selenagomezfan #actress #singer #icon #glamour #rarebeauty #disney",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
