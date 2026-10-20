@@ -3454,5 +3454,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-30b61874-dfa1-4b0f-a521-ef0ec9dc1811.mp4",
+        "metadata": {
+            "title": "Selena Gomez in Full Glam: Red Carpet Moments, Signature Style & Icon Energy (SelTok Lens)",
+            "description": "Stop scrolling\u2014this is your front-row pass to Selena Gomez at her most glamorous, serving up head-turning red carpet looks, effortless elegance, and that iconic Selena magic we can\u2019t get enough of. From jaw-dropping fashion moments that look straight out of a designer dream to confident, camera-ready interview vibes, every second is pure style celebration. I\u2019m seriously obsessed with how Selena blends modern glam with her signature charm\u2014whether she\u2019s rocking statement details, sleek silhouettes, or that \u201cmain character\u201d energy that makes Hollywood stop and stare. Which look is your personal favorite\u2014an unforgettable red carpet outfit, a scene-stealing moment from a movie, or a \u201cwait, she looks UNREAL\u201d interview clip? Like if you love Selena Gomez! Comment your favorite Selena Gomez movie or moment! Share this with another Selena Gomez fan! Follow SelTok Lens for the best Selena Gomez content! #selenagomez #hollywood #wizards #onlymurders #fashion #celebrity #redcarpet #selenagomezfan #actress #singer #icon #glamour #rarebeauty #disney",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
