@@ -3806,5 +3806,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-b738fbd2-ac72-49a7-8fa2-17ec0946df4b.mp4",
+        "metadata": {
+            "title": "Selena Gomez's Most Glamorous Met Gala Looks",
+            "description": "Selena Gomez at the Met Gala is appointment viewing. Year after year, she delivers some of the most talked-about looks in Met Gala history. She doesn't just attend the Met Gala - she defines it. Her commitment to the theme, her attention to detail, and her ability to transform is unmatched. Comment your favorite Selena Gomez Met Gala look! #selenagomez #metgala #fashion #vogue #redcarpet #highfashion #art #costume #selenagomezfan",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
