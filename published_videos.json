@@ -5118,5 +5118,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-30b61874-dfa1-4b0f-a521-ef0ec9dc1811.mp4",
+        "metadata": {
+            "title": "Selena Gomez in Full Glam Mode: Iconic Red Carpet Looks, Fierce Style Moments & \u201cSelena Magic\u201d",
+            "description": "Okay SelTok Lens fam\u2014today we\u2019re stepping into pure glamour with Selena Gomez at her most iconic! \u2728 From those camera-ready red carpet silhouettes to the kind of fashion choices that make heads turn instantly, every moment feels like a mini style runway. We\u2019re talking effortless elegance, bold details, and that unmistakable Selena confidence\u2014whether she\u2019s serving soft glam in an interview or looking absolutely unstoppable on the best dressed lists. And yes, we\u2019re celebrating more than just the looks here: it\u2019s the vibe, the charm, the star power, the way she owns every outfit like it\u2019s made just for her. Like if you love Selena Gomez! Comment your favorite Selena Gomez movie or moment! Share this with another Selena Gomez fan! Follow SelTok Lens for the best Selena Gomez content! #selenagomez #hollywood #wizards #onlymurders #fashion #celebrity #redcarpet #selenagomezfan #actress #singer #icon #glamour #rarebeauty #disney",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": false,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
